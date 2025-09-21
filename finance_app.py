@@ -131,7 +131,7 @@ def create_sankey():
 
 # Main app
 def main():
-    st.title("TerraWatt Finance Model Visualization")
+    st.title("TerraWatt Structure Model Visualization")
     
     # Create and display the Sankey diagram
     fig = create_sankey()
@@ -168,4 +168,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
