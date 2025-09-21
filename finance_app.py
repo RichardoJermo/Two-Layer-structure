@@ -6,7 +6,7 @@ from io import BytesIO
 
 # Set page configuration
 st.set_page_config(
-    page_title="TerraWatt Finance Model",
+    page_title="Two-Layer Investment Model Structure",
     page_icon="📊",
     layout="wide"
 )
@@ -168,3 +168,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
