@@ -148,7 +148,7 @@ def main():
         # Try to load the logo (if available)
         try:
             # If you have the logo file in your directory, you can use:
-            # logo = Image.open("TEIPL_FINAL_LOGO_11.png")
+            # logo = Image.open("11.png")
             # st.image(logo, width=300)
             
             # For now, we'll use a placeholder
@@ -166,4 +166,5 @@ def main():
 
 # Run the app
 if __name__ == "__main__":
+
     main()
