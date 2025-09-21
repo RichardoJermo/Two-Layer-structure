@@ -68,7 +68,7 @@ def create_sankey():
         node=dict(
             pad=18,
             thickness=22,
-            line=dict(color="black", width=0.4),
+            line=dict(color="white", width=0.4),
             label=labels,
             color=colors
         ),
@@ -168,5 +168,6 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
